@@ -1,6 +1,6 @@
 # --- General options --- #
 
-remote_theme: daattali/beautiful-jekyll
+remote_theme: "daattali/beautiful-jekyll"
 
 # Name of website
 title: My website
