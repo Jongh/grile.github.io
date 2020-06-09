@@ -20,7 +20,7 @@ title                    : "JongH의 정리용 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JongH"
-description              : "지금까지의 수행한 작업을 정리하는 블로그입니다."
+description              : "작업했던 내용들을 정리해서 백업하는 블로그
 url                      : "https://jongh.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "JongH"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "한국의 흔한 노동자."
+  bio              : "yellotail 개발팀 선임"
   location         : "Seoul, Korea"
   email            : "kjhfood@hotmail.com"
   links:
