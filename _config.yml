@@ -20,7 +20,7 @@ title                    : "JongH의 정리용 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "JongH"
-description              : "작업했던 내용들을 정리해서 백업하는 블로그
+description              : "작업했던 내용들을 정리해서 백업하는 블로그"
 url                      : "https://jongh.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
