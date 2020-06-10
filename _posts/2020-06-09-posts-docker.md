@@ -1,8 +1,10 @@
 ---
 title: "tensorflow 가상환경을 구현하면서 배우는 docker 사용법"
 date: 2020-06-09 15:04:19 +0900
-categories: docker
+categories: docker, tensorflow
 ---
+
+## docker 가상환경 구축하기
 
 ### docker 설치 및 확인
 
