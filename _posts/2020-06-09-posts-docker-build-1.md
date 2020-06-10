@@ -1,7 +1,8 @@
 ---
 title: "docker 이미지 빌드하기 - Dockerfile 만들기"
 date: 2020-06-10 14:25:10 +0900
-categories: docker python
+categories: docker
+tags: Dockerfile python
 ---
 
 ## docker 이미지 만들기
