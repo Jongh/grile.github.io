@@ -50,7 +50,7 @@ http://127.0.0.1:8888/?token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### 가상환경에서 예제코드를 사용하기 위한 작업
 
-- jupyter notebook을 이용하여 tensorflow 예제를 실행하다보면, 아래와 같이 에러가 발생하는 코드가 있다.
+- jupyter notebook을 이용하여 tensorflow 예제를 실행하다보면 에러가 발생하는 코드가 있다. 예를 들면 아래에 표시한 overfit_and_underfit.ipynb 파일의 2번째 입력 부분이 있다.
 
 ```python
 !pip install git+https://github.com/tensorflow/docs
@@ -75,4 +75,4 @@ apt-get update
 apt-get install git -y
 ```
 
-- 작업 수행을 완료하면, jupyter notebook의 모든 예제를 수행할 수 있다.
+- 작업 수행을 완료하면, jupyter notebook의 모든 예제를 수행할 수 있다. 웹페이지에서 localhost:8888에 접속해 tensorflow 예제를 실행해보도록 하자.
