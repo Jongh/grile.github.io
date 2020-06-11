@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko_KR"
 title                    : "JongH의 정리용 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "JongH"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "서울 거주 백앤드 개발자, 사용하는 기술들을 자꾸 까먹어서 글 올리는 중"
+  bio              : "서울 거주 백앤드 개발자, 사용하는 기술들을 잊기 전에 정리하는 곳"
   location         : "Seoul, Korea"
   email            : "kjhfood@hotmail.com"
   links:

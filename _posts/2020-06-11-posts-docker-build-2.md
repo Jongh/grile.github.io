@@ -1,6 +1,6 @@
 ---
 title: "docker 이미지 빌드하기 - 빌드하고 구동하기"
-date: 2020-06-10 14:25:10 +0900
+date: 2020-06-11 10:40:04 +0900
 categories: docker
 tags: build python
 ---
@@ -82,7 +82,7 @@ docker start [-i] [CONTAINERNAME]
 
 - CONTAINERNAME은 컨테이너에 등록된 이름으로 구동할 컨테이너의 이름을 입력하면 된다.
 
-- 이번에 구성한 컨테이너를 실행시켜서 작업하기 위해서는 아래와 같이 입력하면 된다.
+- 이번에 구성한 컨테이너를 실행시키기 위해서는 아래와 같이 입력하면 된다.
 
 ```bash
 docker start -i mypy
