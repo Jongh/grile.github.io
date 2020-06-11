@@ -6,7 +6,7 @@
 
 - 기본은 _config.yml을 수정하여 작업이 가능하며, 다른 블로그 및 테마 저장소를 통해 사용 방법을 알 수 있음
 
-- github의 github pages를 이용해서 
+- github의 github pages를 통해서 웹페이지 표출
 
 ## 작업 예정 내용
 
