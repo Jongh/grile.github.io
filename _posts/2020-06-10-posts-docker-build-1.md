@@ -5,11 +5,11 @@ categories: docker
 tags: Dockerfile python
 ---
 
-## docker 이미지 만들기
+## dockerfile 만들기
 
 ### docker 이미지를 만드는 이유
 
-- 다양하게 구축된 docker 이미지는 [docker hub](https://hub.docker.com/)에서 찾아서 빌드할 수 있다. 그러나 업무 등을 위하여 자신만의 서버 이미지를 구축하여 사용해야 할 경우도 있다. 이럴 때 사용하기 위해서 docker 이미지를 직접 만드는 방법을 정리했다.
+- 다양하게 구축된 docker 이미지는 [docker hub](https://hub.docker.com/){: target="_blank"}에서 찾아서 빌드할 수 있다. 그러나 업무 등을 위하여 자신만의 서버 이미지를 구축하여 사용해야 할 경우도 있다. 이럴 때 사용하기 위해서 docker 이미지를 직접 만드는 방법을 정리했다.
 
 ### Dockerfile 명령어
 
